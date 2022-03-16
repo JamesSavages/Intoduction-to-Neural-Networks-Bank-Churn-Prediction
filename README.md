@@ -1,4 +1,4 @@
-# Intoduction-to-Neural-Networks---Bank-Churn-Prediction
+# Intoduction-to-Neural-Networks-Bank-Churn-Prediction
 
 ### Background and Context
 
