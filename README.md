@@ -14,29 +14,30 @@ The case study is from an open-source dataset from Kaggle. The dataset contains 
 
 ### Data Dictionary:
 
-RowNumber: Row number.
+**RowNumber**: Row number.
 
-CustomerId: Unique identification key for different customers.
+**CustomerId**: Unique identification key for different customers.
 
-Surname: Surname of the customer
-Credit Score: A credit score is a measure of an individual's ability to pay back the borrowed amount. It is the numerical representation of their creditworthiness. A credit score is a 3-digit number that falls in the range of 300-900, 900 being the highest.
+**Surname**: Surname of the customer
 
-Geography: The country to which the customer belongs.
+**Credit Score**: A credit score is a measure of an individual's ability to pay back the borrowed amount. It is the numerical representation of their creditworthiness. A credit score is a 3-digit number that falls in the range of 300-900, 900 being the highest.
 
-Gender: The gender of the customer.
+**Geography**: The country to which the customer belongs.
 
-Age: Age of the customer.
+**Gender**: The gender of the customer.
 
-Tenure: The period of time a customer has been associated with the bank.
+**Age**: Age of the customer.
 
-Balance: The account balance (the amount of money deposited in the bank account) of the customer.
+**Tenure**: The period of time a customer has been associated with the bank.
 
-NumOfProducts: How many accounts, bank account affiliated products the person has.
+**Balance**: The account balance (the amount of money deposited in the bank account) of the customer.
 
-HasCrCard: Does the customer have a credit card through the bank?
+**NumOfProducts**: How many accounts, bank account affiliated products the person has.
 
-IsActiveMember: Subjective, but for the concept
+**HasCrCard**: Does the customer have a credit card through the bank?
 
-EstimatedSalary: Estimated salary of the customer.
+**IsActiveMember**: Subjective, but for the concept
 
-Exited: Did they leave the bank after all?
+**EstimatedSalary**: Estimated salary of the customer.
+
+**Exited**: Did they leave the bank after all?
